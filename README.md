@@ -9,3 +9,4 @@ and connecting wallet code is fully functional.
 
 
 ```
+![home](<nft-marketplace-mkpatidar.netlify.app_home (1).png>)
